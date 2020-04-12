@@ -52,7 +52,7 @@
     </build>
     <distributionManagement>
     <repository>
-      <id>deployment</id>
+      <id>nexus</id>
         <name>Internal Releases</name>
       <url>http://34.69.138.229:8081/repository/superleague/</url>
     </repository>
